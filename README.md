@@ -95,6 +95,8 @@ Identified defects will be documented with:
 * Priority
 * Evidence
 
+🔗 This bug is also tracked in Jira: [KAN-1 – E-Commerce Manual Testing board](https://nuronel.atlassian.net/browse/KAN-1)
+
 ### 🔌 API Testing
 
 API tests will be performed using Postman.
@@ -120,7 +122,7 @@ A final test summary report will be added after completing the planned testing a
 * Chrome DevTools
 * Git & GitHub
 * Microsoft Excel
-* Jira-style Bug Reporting
+* Jira (Bug Tracking)
 
 ### 🌐 Application Under Test
 
@@ -196,6 +198,8 @@ Tespit edilen hatalar aşağıdaki bilgiler kullanılarak dokümante edilecektir
 * Priority
 * Kanıt / Evidence
 
+🔗 Bu bug Jira'da da takip edilmektedir: [KAN-1 – E-Commerce Manual Testing board](https://nuronel.atlassian.net/browse/KAN-1)
+
 ### 🔌 API Testleri
 
 API testleri Postman kullanılarak gerçekleştirilecektir.
@@ -221,7 +225,7 @@ Planlanan test çalışmalarının tamamlanmasının ardından final test summar
 * Chrome DevTools
 * Git & GitHub
 * Microsoft Excel
-* Jira formatında Bug Reporting
+* Jira (Bug Tracking)
 
 ### 🌐 Test Edilen Uygulama
 
@@ -233,6 +237,6 @@ https://practicesoftwaretesting.com
 
 ## 👩‍💻 Author / Yazar
 
-**Halise Fatmanur Önel**
+**Nur Önel**
 
 Junior QA Engineer
